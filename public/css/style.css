@@ -1,0 +1,9 @@
+body {
+    background-image: url("./../View_from_Berkeley_hills_\(4066489489\).jpg");
+    background-size: cover;
+}
+
+
+h1, h2, h3, a {
+    color: white;
+}
